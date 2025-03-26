@@ -28,7 +28,7 @@ In addition to taking over the functionality of Instagram, the functioning of Pi
 It is possible to import your data from Instagram.
 
 
-**Paketatutako bertsioa:** 0.12.4-glitch.1.9.1~ynh1
+**Paketatutako bertsioa:** 0.12.4+glitch.1.10.1~ynh1
 
 ## Pantaila-argazkiak
 
@@ -47,7 +47,7 @@ It is possible to import your data from Instagram.
 
 Bidali `pull request`a [`testing` abarrera](https://github.com/YunoHost-Apps/pixelfed_glitch_ynh/tree/testing).
 
-`testing` abarra probatzeko, ondorengoa egin:
+`testing` abarra probatzeko, honakoa egin:
 
 ```bash
 sudo yunohost app install https://github.com/YunoHost-Apps/pixelfed_glitch_ynh/tree/testing --debug
