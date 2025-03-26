@@ -3,7 +3,7 @@ Este archivo README esta generado automaticamente<https://github.com/YunoHost/ap
 No se debe editar a mano.
 -->
 
-# Pixelfed Glitch para Yunohost
+# Pixelfed Glitch para YunoHost
 
 [![Nivel de integración](https://apps.yunohost.org/badge/integration/pixelfed_glitch)](https://ci-apps.yunohost.org/ci/apps/pixelfed_glitch/)
 ![Estado funcional](https://apps.yunohost.org/badge/state/pixelfed_glitch)
@@ -28,7 +28,7 @@ In addition to taking over the functionality of Instagram, the functioning of Pi
 It is possible to import your data from Instagram.
 
 
-**Versión actual:** 0.12.4.1.10.1~ynh1
+**Versión actual:** 0.12.4+glitch.1.10.1~ynh1
 
 ## Capturas
 
