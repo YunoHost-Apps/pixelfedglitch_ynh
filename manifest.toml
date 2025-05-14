@@ -49,7 +49,7 @@ ram.runtime = "850M"
         url = "https://github.com/pixelfed-glitch/pixelfed/archive/refs/tags/v0.12.4-glitch.1.10.1.tar.gz"
         sha256 = "c0444d2082954762252fb713173d89a767a2f5bc995fd6c4729ed00b4e520555"
         autoupdate.strategy = "latest_github_tag"
-        autoupdate.version_regex = "(\\d+\\.\\d+\\.\\d+)-glitch.*"
+        autoupdate.version_regex = "v(\\d+\\.\\d+\\.\\d+)-glitch.*"
 
     [resources.system_user]
     allow_email = true
